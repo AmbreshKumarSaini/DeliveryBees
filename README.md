@@ -50,6 +50,9 @@
 
 - Moreover, user data privacy and security are paramount concerns in today's digital landscape. To address these concerns, the application employs robust encryption methods to securely store passwords. This proactive approach to data security ensures that sensitive user information remains safeguarded, instilling confidence in customers to trust the platform with their personal details.
 
+ ## Features
+ - Fully Responsive
+
 _In conclusion, the web application embodies innovation and efficiency, successfully meeting the demands of modern-day consumers who seek convenience, accessibility, and security. The application creates a seamless and secure environment for customers to explore menu options, review their order history, and enjoy a hassle-free food delivery experience_.
 
 ## Feedback
