@@ -24,8 +24,12 @@
     <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/98ed29d1-f8cc-4cb7-9788-59cff5df671f" />
    </td>
   </tr>
-  
-   <tr>
+ </tbody>
+</table>
+
+<table>
+ <tbody>
+  <tr>
    <td>
     <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/5f385f64-20e7-46d6-b4a0-95bbcd05a442" />
    </td>
@@ -33,10 +37,13 @@
    <td>
     <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/9b31361e-6651-4b62-a935-d005528f8568" />
    </td>
+   <td>
+    <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/ca3498dd-1232-4711-b408-0ac5259e09bd"/>
+   </td>
   </tr>
-  
  </tbody>
 </table>
+
 
 - Use of ReactJS, empowers the complete frontend development and ensures a smooth, interactive, and dynamic user interface. Leveraging ReactJS, the application delivers a engaging user experience, enhancing the overall satisfaction of customers and facilitating their interaction with the platform.
 
