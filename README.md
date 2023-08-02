@@ -17,11 +17,10 @@
   
    <tr>
    <td>
-    <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/416b1b1b-e173-4182-8899-67b6cf256d99" />
+    <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/d221e2f8-bfa7-4391-8796-0e400b085ba1" />
    </td>
-   
    <td>
-    <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/98ed29d1-f8cc-4cb7-9788-59cff5df671f" />
+    <img src="https://github.com/AmbreshKumarSaini/DeliveryBees/assets/92514207/416b1b1b-e173-4182-8899-67b6cf256d99" />
    </td>
   </tr>
  </tbody>
